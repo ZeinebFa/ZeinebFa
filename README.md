@@ -6,7 +6,7 @@ I'm a software developer with a passion for creativity and problem-solving. As a
 Driven by ambition and a commitment to personal growth, I'm working to sharpen my skills and use them to make a meaningful impact. Whether it's building something innovative or helping others, I'm dedicated to creating solutions that matter.
    <p align="left">
       <a href="https://github.com/ZeinebFa/webPROJECT.git">
-         <img alt="WebProject" title="latest Project" src="https://custom-icon-badges.demolab.com/badge//-My%20Repos-pink?style=for-the-badge&logoColor=white&logo=repo"/></a>
+         <img alt="WebProject" title="latest Project" src="https://custom-icon-badges.demolab.com/badge//-My%20Repos-orange?style=for-the-badge&logoColor=white&logo=repo"/></a>
       
    </p>
 
@@ -38,7 +38,7 @@ Driven by ambition and a commitment to personal growth, I'm working to sharpen m
 
 ### Stats
 
-![ZeinebFa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinebFa&show_icons=true&theme=rose)
+![ZeinebFa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinebFa&show_icons=true&theme=moltack)
 
 
 #
