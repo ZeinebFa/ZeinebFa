@@ -7,7 +7,7 @@ Driven by ambition and a commitment to personal growth, I'm working to sharpen m
    <p align="left">
             <i class="fa-solid fa-book"></i>
       <a href="https://github.com/ZeinebFa/webPROJECT.git">
-         <img alt="webProject" title="my latest repo" https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white /></a>
+         <img alt="webProject" title="my latest repo" src ="https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white " /></a>
    </p>
 
 ---
