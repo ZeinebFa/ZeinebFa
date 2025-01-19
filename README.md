@@ -1,13 +1,13 @@
-# ☀️ZeinebF
+# ☀️ZeinebFa
 
 **`engineering student`**
 
 I'm a software developer with a passion for creativity and problem-solving. As a puzzle lover, I thrive on tackling challenges and uncovering how things work. I'm always eager to learn more—about coding, life, and the world around me.
 Driven by ambition and a commitment to personal growth, I'm working to sharpen my skills and use them to make a meaningful impact. Whether it's building something innovative or helping others, I'm dedicated to creating solutions that matter.
    <p align="left">
-            <i class="fa-solid fa-book"></i>
       <a href="https://github.com/ZeinebFa/webPROJECT.git">
-         <img alt="webProject" title="my latest repo" src ="https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white " /></a>
+         <img alt="WebProject" title="latest Project" src="https://custom-icon-badges.demolab.com/badge//-My%20Repos-pink?style=for-the-badge&logoColor=white&logo=repo"/></a>
+      
    </p>
 
 ---
